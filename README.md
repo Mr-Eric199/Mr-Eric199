@@ -2,14 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&width=1200&section=header&text=Eric%20Antwi&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Certified%20and%20Accredited%20Cybersecurity%20Professional%20|%20Digital%20Forensics%20|%20IT%20Specialist&descAlignY=55&animation=fadeIn" alt="Eric Antwi Header"/>
 </p>
-<p align="center">
-   📧 <a href="mailto:antwieric199@gmail.com">antwieric199@gmail.com</a> |
-  📞 +233 546 566 661 | 🔗 <a href="https://linkedin.com/in/eric-antwi-fc">LinkedIn</a>
-</p>
-
----
-
-### 🧭 About Me
 
 > I’m a **Licensed Cybersecurity Professional (CSA Accredited)** and **IT Specialist** with over **9 years of experience** protecting systems across **military, healthcare, and education** sectors.
 > Skilled at bridging **technical controls** and **strategic goals**, I deliver secure and resilient infrastructures that empower organizations.
@@ -102,15 +94,9 @@ Certificate No.: **CSA/571/GA/523-04642**
 
 ---
 
-## 📊 GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-eric199&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-eric199&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-eric199&layout=compact&theme=tokyonight" height="150em" />
 </p>
 
 ---
