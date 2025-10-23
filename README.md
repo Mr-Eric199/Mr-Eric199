@@ -8,7 +8,7 @@
 <p align="center">
    📧 <a href="mailto:antwieric199@gmail.com">antwieric199@gmail.com</a> |
   📞 +233 546 566 661<br>
-  🔗 <a href="https://linkedin.com/in/eric-antwi-fc">LinkedIn</a> |
+  🔗 <a href="https://linkedin.com/in/eric-antwi-fc">LinkedIn</a>
 </p>
 
 ---
