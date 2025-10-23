@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&width=1200&section=header&text=Eric%20Antwi&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Certified%20and%20Accredited%20Cybersecurity%20Professional%20|%20Digital%20Forensics%20|%20IT%20Specialist&descAlignY=55&animation=fadeIn" alt="Eric Antwi Header"/>
 </p>
-
-<h3 align="center">🚀 Certified & Accredited Cybersecurity Professional | Digital Forensics | IT Specialist | Software Development</h3>
-
 <p align="center">
    📧 <a href="mailto:antwieric199@gmail.com">antwieric199@gmail.com</a> |
   📞 +233 546 566 661 | 🔗 <a href="https://linkedin.com/in/eric-antwi-fc">LinkedIn</a>
@@ -123,8 +120,7 @@ Certificate No.: **CSA/571/GA/523-04642**
 <p align="center">
   <a href="mailto:antwieric199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/eric-antwi-fc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mr-eric199"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+ </p>
 
 ---
 
