@@ -7,8 +7,7 @@
 
 <p align="center">
    📧 <a href="mailto:antwieric199@gmail.com">antwieric199@gmail.com</a> |
-  📞 +233 546 566 661<br>
-  🔗 <a href="https://linkedin.com/in/eric-antwi-fc">LinkedIn</a>
+  📞 +233 546 566 661 | 🔗 <a href="https://linkedin.com/in/eric-antwi-fc">LinkedIn</a>
 </p>
 
 ---
@@ -86,39 +85,6 @@ Certificate No.: **CSA/571/GA/523-04642**
 
 ---
 
-## 💼 Work Experience
-
-### 🛡️ IT Manager | Ghana Armed Forces *(Dec 2023 – Present)*
-
-* Delivered comprehensive IT support and security patching for 50+ endpoints.
-* Led vulnerability assessments (Nessus, OpenVAS).
-* Implemented endpoint protection and malware defenses.
-* Developed and enforced ISO 27001/NIST policies.
-* Conducted cybersecurity training for 600+ staff.
-
-### 🧰 IT Support | Mega Vision Production Ltd *(Sep 2018 - Dec 2023)*
-
-* Resolved 300+ IT/network issues.
-* Installed CCTV and IAM systems.
-* Conducted IT risk mitigation strategies.
-
-### 🌐 Web Developer | Vaska Freelancing Ltd *(Mar 2023 - Jun 2023)*
-
-* Designed responsive corporate websites.
-* Conducted vulnerability testing with Burp Suite.
-
-### 🏥 IT Specialist | First Class Clinic *(Jan 2022 - Aug 2022)*
-
-* Built clinic management system.
-* Installed and configured security infrastructure.
-
-### 🎓 IT Support | Kumasi Technical University *(Sep 2020 - Aug 2021)*
-
-* Managed e-learning platform for 5,000+ students.
-* Maintained the university website and provided executive support.
-
----
-
 ## 🎓 Education
 
 🎓 **MSc, Cyber Security and Digital Forensics** – *KNUST* (2024 - 2025) <br>
@@ -130,23 +96,6 @@ Certificate No.: **CSA/571/GA/523-04642**
 
 * Cisco Cybersecurity Certificate (2024)
 * Google Cybersecurity Certificate (2024)
-
----
-
-## 🧪 Featured Projects
-
-### 🧬 Military Biometric Authentication System (MSc Thesis)
-
-* Fingerprint authentication with **SHA-3, BLAKE3, and Argon2**.
-* Achieved **99.52% accuracy** with high spoofing resistance.
-
-### 🩺 Malaria Prediction Model (BTech Research)
-
-* Built ML model (83.3% accuracy) predicting child malaria fatality.
-
-### 🏥 Hospital Management System (HND Project)
-
-* Designed a handwriting-enabled patient management system.
 
 ---
 
